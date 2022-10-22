@@ -13,7 +13,7 @@ public class Needle7 {
     }
 
     @Autowired
-    public void setDeth(Death8 deth) {
-        this.death = deth;
+    public void setDeath(Death8 death) {
+        this.death = death;
     }
 }
